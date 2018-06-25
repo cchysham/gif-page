@@ -1,0 +1,13 @@
+img {
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+p {
+    float: left;
+}
+
+#gifArea {
+    margin-top: 20px;
+}
